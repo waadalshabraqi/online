@@ -1,0 +1,91 @@
+.note-card{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 32.3776px;
+    gap: 10px;
+    width: 389px;
+    height: 500px;
+    background: #F8F9FB;
+    box-shadow: 0px 6.47552px 6px rgba(41, 41, 41, 0.08);
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    
+    }
+    .btn-sub{
+        
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 6.47552px 12.951px;
+    gap: 8.09px;
+    height: 38.85px;
+    background: #F0F1EE;
+    border: 1.61888px solid #8A9B6E;
+    border-radius: 19.4266px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    
+    .card-img-top{
+    width: 389px;
+    height: 388px;
+    opacity: 0.9;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    
+    .card-title{
+    width: 168px;
+    height: 29px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #354733;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    
+    .card-price{
+    width: 49px;
+    height: 25px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 154.5%;
+    display: flex;
+    align-items: center;
+    color: #354733;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    
+    .card-currency{
+    width: 50px;
+    height: 25px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 154.5%;
+    display: flex;
+    align-items: center;
+    color: #AFB2AA;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    
+    }
+    

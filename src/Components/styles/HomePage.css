@@ -1,0 +1,94 @@
+
+.card-container{
+    position: relative;
+    width: 1430px;
+    height: 2300px;
+    background: #F0F1EE;
+    }
+     
+    h1{
+    position: absolute;
+    width: 1000px;
+    height: 100px;
+    left: 50px ;
+    
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 84px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    color: #354733;
+    }
+    
+    .card-f2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    gap:5px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 200px;
+    position: absolute;
+    width: 1300px;
+    height: 1104.85px;
+    left: calc(50% - 1735px/2 + 1.5px);
+    top: 840px;
+    background: #FFFFFF;
+    
+    }
+    
+    
+    .Ubody{
+    top:2300px;
+    position: absolute;
+    height: 300px;
+    left: 0%;
+    right: 0%;
+    bottom: 0px;
+    background: #354733;
+    
+    }
+    
+    .one{
+    position: absolute;
+    top: 26px;
+    width: 1000px;
+    left: 5.77%;
+    right: 78.41%;
+    bottom: 353px;
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 84px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    }
+    
+    p{
+    width: 200px;
+    top: 200px;
+    position: absolute;
+    left: 5.77%;
+    right: 84.87%;
+    bottom: 312px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 154.5%;
+    color: #FFFFFF;
+    }
+    .line{
+    position: absolute;
+    height: 0px;
+    left: 5.77%;
+    right: 5.77%;
+    bottom: 100px;
+    border: 1px solid #DDDEA0;
+    
+    }

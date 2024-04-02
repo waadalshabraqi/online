@@ -1,0 +1,24 @@
+.navbar{
+    background-color:#354733;
+    width: 1430px;
+    }
+.nav-logo{
+    width: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.nav-logo p{
+    top:50px;
+    width: 1000px;
+    left: 700px;
+    color:#8A9B6E;
+    font-size: 38px;
+    font-weight: 100;
+    gap:20px;
+    
+}
+
+
+
